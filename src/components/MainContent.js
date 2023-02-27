@@ -17,9 +17,8 @@ function MainContent(){
                 </a>
             </div>
             <div className='info'>
-                <h3>About</h3>
-                <p> I'm a Full Stack Software Engineer with a love for building simple and inutative apps. I'm always paying really close attention to the apps I use
-                 and looking for ways to improve them to make my life, and the life of others better. I work primarily in React with Node.js but I'm always open to learning something new. Hire me! </p>
+                <h3>About Me</h3>
+                <p> I'm a Full Stack Software Engineer with a love for building simple and intuitive applications. I'm always paying really close attention to the apps I use and looking for ways to improve them to make both my life, and the life of others better. I work primarily in React with Node.js but I'm always open to learning something new. Hire me! </p>
                 <h3>My Interests</h3>
                 <p>Tech geek. Gym goer and car enthusiast. I love exploring my city and trying new things</p>
             </div>
